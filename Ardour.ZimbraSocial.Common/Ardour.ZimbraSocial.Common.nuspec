@@ -4,7 +4,7 @@
     <id>Ardour.ZimbraSocial.Common</id>
     <version>1.0.0.0</version>
     <authors>Ardour Digital Limited</authors>
-    <description>A set of common classes for use extending Zimbra Social</description>
+    <description>A set of common classes for use extending Zimbra Social.</description>
     <language>en-US</language>
     <projectUrl>https://github.com/ArdourDigital/ZimbraSocial.Common</projectUrl>
     <licenseUrl>https://github.com/ArdourDigital/ZimbraSocial.Common/blob/master/LICENSE</licenseUrl>

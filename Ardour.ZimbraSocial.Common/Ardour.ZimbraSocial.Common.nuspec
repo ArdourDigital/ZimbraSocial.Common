@@ -2,6 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>Ardour.ZimbraSocial.Common</id>
+    <version>1.0.0.0</version>
     <authors>Ardour Digital Limited</authors>
     <description>A set of common classes for use extending Zimbra Social</description>
     <language>en-US</language>

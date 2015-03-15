@@ -37,14 +37,17 @@
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
-    <Reference Include="Telligent.Evolution.Api">
-      <HintPath>..\lib\TelligentCommunity6.1\Telligent.Evolution.Api.dll</HintPath>
+    <Reference Include="Telligent.Evolution.Api, Version=6.1.24.39307, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\lib\ZimbraSocial\Telligent.Evolution.Api.dll</HintPath>
     </Reference>
-    <Reference Include="Telligent.Evolution.Components">
-      <HintPath>..\lib\TelligentCommunity6.1\Telligent.Evolution.Components.dll</HintPath>
+    <Reference Include="Telligent.Evolution.Components, Version=6.1.24.39307, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\lib\ZimbraSocial\Telligent.Evolution.Components.dll</HintPath>
     </Reference>
-    <Reference Include="Telligent.Evolution.ScriptedContentFragments">
-      <HintPath>..\lib\TelligentCommunity6.1\Telligent.Evolution.ScriptedContentFragments.dll</HintPath>
+    <Reference Include="Telligent.Evolution.ScriptedContentFragments, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\lib\ZimbraSocial\Telligent.Evolution.ScriptedContentFragments.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
